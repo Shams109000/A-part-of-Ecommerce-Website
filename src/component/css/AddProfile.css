@@ -1,0 +1,36 @@
+
+.addProfile{
+    /* width: 300px; */
+    /* border: 1px solid black; */
+    display: flex;
+    justify-content: center;
+    
+    /* height: 90vh; */
+    /* margin: 50px 0px; */
+    }
+    .form-check{
+        display: block;
+        min-height: 1.5rem;
+        margin-bottom: 0.125rem;
+        padding-right: 60px;
+    
+    }
+    .date{
+        padding-right: 10px !important;
+    }
+    .FORM{
+        background-color:#aee1e1;
+        width: 360px;
+        color: #ffc107;
+        /* color: red; */
+    }
+    .btn{
+        background-color: #89c9c9;
+        color: #4e4e4e;
+        /* background-color: darkgoldenrod; */
+    }
+    .btn:hover{
+        /* background-color: #89c9c9; */
+        background-color: rgb(200, 145, 7);
+
+    }
